@@ -1,4 +1,4 @@
 # pomodoro_clock
-see work http://codepen.io/upanan82/full/dObaBB/
+see work https://upanan82.github.io/pomodoro_clock/
 
 © upanan82
