@@ -1,4 +1,2 @@
-# pomodoro_clock
-see work https://upanan82.github.io/pomodoro_clock/
-
-© upanan82
+# pomodoro-clock
+Demo &nbsp;-&nbsp; https://upanan82.github.io/pomodoro-clock/

@@ -19,7 +19,7 @@ h2 {
 
 @font-face {
   	font-family: Pomp; 
-  	src: url(font1.ttf);
+  	src: url(fonts/font1.ttf);
 }
 
 .content {
